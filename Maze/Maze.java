@@ -1,3 +1,9 @@
+/*
+ * This is example taken from
+ * https://www.cs.sfu.ca/~tamaras/recursion/recursion.html
+ */
+
+
 public class Maze
 {
     private final int TRIED = 3;
